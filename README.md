@@ -40,7 +40,7 @@ Block Diagram of our project
 Electronics:
 * 1 Mbed LPC1768: https://www.sparkfun.com/products/9564
 * 1 LCD Display (uLCD-144G2): https://www.sparkfun.com/products/11377
-* 1 I2C Humidity and Temperature Sensor (Si7021):
+* 1 I2C Humidity and Temperature Sensor (Si7021): https://www.electromaker.io/shop/product/humidity-and-temp-sensor-bo-si7021
 * 1 Speaker: https://www.sparkfun.com/products/11089
 * 1 Qwiic DC Motor: https://www.sparkfun.com/products/18625
 * 1 HC-SR04 Sonar Sensor: https://www.sparkfun.com/products/15569
